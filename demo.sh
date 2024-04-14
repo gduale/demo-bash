@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# gduale - 2018/10/25
-
 function exit_on_fail() {
   echo ${1}
   exit 2
